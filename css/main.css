@@ -1,0 +1,83 @@
+.bg-image-intre {
+  background-image: url("../img/1_\(12\).jpeg");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.bg-image-intre0 {
+  background-image: url("../img/banner-01.jpg");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.bg-image-between {
+  background-image: url("../img/video-bg.jpg");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.bg-image-last {
+  background-image: url("../img/contact-bg.jpg");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.splide__pagination {
+  right: unset;
+  margin-left: 3rem;
+  margin-bottom: 3rem;
+}
+
+.bg-shadow {
+  background-color: rgba(228, 222, 222, 0.274);
+}
+
+a.hover-1 {
+  position: relative;
+  color: white !important;
+}
+
+a.hover-1:hover {
+  color: red !important;
+}
+.card {
+  cursor: pointer;
+  transition: ease 0.5s;
+}
+.card:hover {
+  transform: translateY(-15px);
+}
+.card1 {
+  cursor: pointer;
+  transition: ease 0.7s;
+}
+.card1:hover {
+  transform: translateY(-10px);
+}
+.bg-light-1 {
+  background-color: #E4E4E4;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+
+}
+body{
+  overflow-x: hidden;
+}
